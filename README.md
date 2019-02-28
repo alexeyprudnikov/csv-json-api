@@ -25,4 +25,4 @@ Pattern: *ggf. Titel Vorname ggf. Zweitname(n) ggf. Namenszusatz Nachname (LDAP-
 
 ## Author
 
-* **Alexey Prudnikov** - *aprudnikov* - [a.prudnikov@neusta.de](mailto:a.prudnikov@neusta.de)
+* **Alexey Prudnikov** - *alexeyprudnikov* - [alexey.prudnikov@yahoo.de](mailto:alexey.prudnikov@yahoo.de)
