@@ -1,0 +1,15 @@
+{
+  "/api/import/": {
+    "controller": "Import",
+    "action": "importData",
+    "method" : "POST"
+  },
+  "/api/room/?": {
+    "controller": "Output",
+    "action": "showData",
+    "method" : "GET",
+    "params": [
+      "number"
+    ]
+  }
+}
