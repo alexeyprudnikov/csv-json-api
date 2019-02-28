@@ -1,4 +1,4 @@
-# Labor Sitzplan API
+# Sitzplan API
 
 ## API Verwendung / erlaubte Endpunkte
 
