@@ -1,5 +1,7 @@
 # Sitzplan API
 
+### CSV->JSON Parser + Importer/Reader
+
 ## API Verwendung / erlaubte Endpunkte
 
 ### Import Raumbelegung aus CSV Datei
