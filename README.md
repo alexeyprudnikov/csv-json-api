@@ -1,4 +1,4 @@
-# Sitzplan API
+# CSV - Json Parsing API
 
 ### CSV->JSON Parser + Importer/Reader
 
