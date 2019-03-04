@@ -1,8 +1,6 @@
-# CSV - Json Parsing API
+# CSV->JSON Parser + Importer/Reader
 
-## CSV->JSON Parser + Importer/Reader
-
-### API Verwendung / erlaubte Endpunkte
+## API Verwendung / erlaubte Endpunkte
 
 ### Import Raumbelegung aus CSV Datei
 ```
